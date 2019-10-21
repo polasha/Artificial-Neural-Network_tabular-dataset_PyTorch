@@ -6,7 +6,7 @@ to perform a regression. The goal is to estimate the cost of a New York City cab
 
 The inspiration behind this code along is a recent Kaggle competition.
 
-Census Income Dataset
+#Tabular Dataset
 
 Here I avae done with tabular data (spreadsheets, SQL tables, etc.) with 
 
@@ -24,9 +24,9 @@ It is up to the contest participant to extract any further information
 
 WorkFlow>
 
-    -Calculte the distance traveled
+   -Calculte the distance traveled
     
-    -Add a datetime column and derive useful statistics
+   -Add a datetime column and derive useful statistics
 
    -Separate categorical from continuous columns
    
